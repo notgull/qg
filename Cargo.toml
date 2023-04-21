@@ -4,5 +4,6 @@ version = "0.0.1"
 edition = "2021"
 authors = ["John Nunley <jtnunley01@gmail.com>"]
 description = "Yet another immediate mode GUI"
+license = "AGPL-3.0-or-later"
 
 [dependencies]
